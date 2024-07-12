@@ -30,7 +30,7 @@ Representative papers of my conducted research are listed <a href="/publications
 <div class="section-t" >
 <h2>Short Bio</h2> 
 <p >
-I have experience as a <b>data scientist</b> and <b>software engineer</b> in several domains including smart cities, robotics, and the automotive industry. Having worked in research facilities such as  <a target="_blank" href="https://www.steinbeis.de/en.html">Steinbeis</a> or the <a target="_blank" href="https://www.iao.fraunhofer.de/en.html">Fraunhofer</a> Institute for Industrial Engineering. As well as in the industry for companies like <a target="_blank" href="https://www.festo.com/de/en/">Festo</a>.
+Currently, I am working as a <b>machine learning engineer</b> at <a target="_blank" href="https://www.mercedes-benz.com/">Mercedes-Benz</a>. Further, I have experience as a <b>data scientist</b> and <b>software engineer</b> in several domains including smart cities, robotics, and the automotive industry. Having worked in research facilities such as  <a target="_blank" href="https://www.steinbeis.de/en.html">Steinbeis</a> or the <a target="_blank" href="https://www.iao.fraunhofer.de/en.html">Fraunhofer</a> Institute for Industrial Engineering. As well as in the industry for companies like <a target="_blank" href="https://www.festo.com/de/en/">Festo</a>.
  </p>
 <p>
 I received my master's degree <b>Master of Science</b> in <b>Applied Computer Science</b> at <b>Esslingen University of Applied Sciences</b> with a focus on data science and autonomous systems.
