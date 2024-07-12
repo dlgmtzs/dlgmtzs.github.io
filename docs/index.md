@@ -9,7 +9,7 @@ layout: home
 
 <div class="section" id="pic">
 <img src="assets/dl_pic.png" alt="Profile Picture" class="pic_me"/>
- I'm Dimi and currently a PhD student in the field of robotics at Esslingen University of Applied Sciences. 
+ I'm Dimi and am currently working as an ML Engineer at Mercedes-Benz in the context of ADAS and self-driving cars.
 </div>
 
 <div class="section-t" >
@@ -32,6 +32,9 @@ Representative papers of my conducted research are listed <a href="/publications
 <p >
 Currently, I am working as a <b>machine learning engineer</b> at <a target="_blank" href="https://www.mercedes-benz.com/">Mercedes-Benz</a>. Further, I have experience as a <b>data scientist</b> and <b>software engineer</b> in several domains including smart cities, robotics, and the automotive industry. Having worked in research facilities such as  <a target="_blank" href="https://www.steinbeis.de/en.html">Steinbeis</a> or the <a target="_blank" href="https://www.iao.fraunhofer.de/en.html">Fraunhofer</a> Institute for Industrial Engineering. As well as in the industry for companies like <a target="_blank" href="https://www.festo.com/de/en/">Festo</a>.
  </p>
+<p>
+I am currently finishing by PhD in robotics at Esslingen University of Applied Sciences in conjunction with the Karlsruhe Institute of Technology.
+</p>
 <p>
 I received my master's degree <b>Master of Science</b> in <b>Applied Computer Science</b> at <b>Esslingen University of Applied Sciences</b> with a focus on data science and autonomous systems.
   </p>
